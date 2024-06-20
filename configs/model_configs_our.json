@@ -1,0 +1,13 @@
+{
+    "model_type": "my_Llama3_chat",
+    "config_name": "my_Llama3wrapper_config",
+    "api_url": "http://106.13.33.123:7002/v1/chat/completions",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "json_args": {
+        "model": "1",
+        "stream": false
+    },
+    "messages_key": "messages"
+}

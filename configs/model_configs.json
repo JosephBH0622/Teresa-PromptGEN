@@ -1,0 +1,11 @@
+{
+    "model_type": "openai_chat",
+    "config_name": "gpt-4o",
+    "model_name": "gpt-4o",
+    "api_key": "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",
+    "organization": "",
+    "generate_args": {
+        "temperature": 0.5
+    }
+}
+
